@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserEmails", "UserEmails\UserEmails.csproj", "{7515516D-C0BE-401F-9DE8-9BBDBD0C307B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7515516D-C0BE-401F-9DE8-9BBDBD0C307B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7515516D-C0BE-401F-9DE8-9BBDBD0C307B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7515516D-C0BE-401F-9DE8-9BBDBD0C307B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7515516D-C0BE-401F-9DE8-9BBDBD0C307B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
